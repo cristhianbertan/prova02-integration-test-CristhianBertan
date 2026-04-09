@@ -19,6 +19,7 @@ describe('Deck of cards', () => {
         .spec()
         .post(`${baseUrl}/deck/new/`)
         .expectStatus(StatusCodes.OK)
+        .inspect()
         .returns('deck_id');
     });
 
