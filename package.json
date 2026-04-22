@@ -1,5 +1,5 @@
 {
-  "name": "integration-tests-jest",
+  "name": "integration-test-jest",
   "version": "1.0.0",
   "description": "API testing with a simple integration between JestJS and PactumJS.",
   "main": "index.js",
@@ -34,12 +34,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cristhianbertan/integration-test-jest.git"
+    "url": "git+https://github.com/cristhianbertan/prova02-integration-test-CristhianBertan/.git"
   },
   "author": "leandro.ugioni",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cristhianbertan/integration-test-jest/issues"
+    "url": "https://github.com/cristhianbertan/prova02-integration-test-CristhianBertan/issues"
   },
-  "homepage": "https://github.com/cristhianbertan/integration-test-jest#readme"
+  "homepage": "https://github.com/cristhianbertan/prova02-integration-test-CristhianBertan/#readme"
 }
